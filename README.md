@@ -9,19 +9,20 @@
 
 - 👯 I’m looking to collaborate on **full stack & gen ai projects**
 
-- 👨‍💻 All of my projects are available at [https://dhavaljprasad.vercel.app/](https://dhavaljprasad.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://dhavaljprasad.vercel.app](https://dhavaljprasad.vercel.app)
 
 - 💬 Ask me about **reactjs, nextjs, nodejs, python, fastapi, and mongodb**
 
-- 📫 How to reach me **dhavaljprasad@gmail.com**
+- 📫 Reach out to me at **dhavaljprasad@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rCkLoRuuOs6j3WDY5DHeDzo9zI1xfhIN/view?usp=sharing](https://drive.google.com/file/d/1rCkLoRuuOs6j3WDY5DHeDzo9zI1xfhIN/view?usp=sharing)
+
+- ⚡ Fun fact **I code in dark mode, else it gets bugged**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dhavaljprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhavaljprasad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhavaljprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhavaljprasad" height="30" width="40" /></a>
-<a href="https://medium.com/dhavaljprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dhavaljprasad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhaval-j-prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhaval-j-prasad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
